@@ -1,10 +1,9 @@
 [![MasterHead](https://github.com/noobconner21/noobconner21/blob/main/Banner.jpg)](https://t.me/shaystudiolab)
 
-<h1 align="center">Hi 👋, I'm Shay Cormac AKA Someone</h1>
+<h1 align="center">Welcome  🇱🇰 Project SSLaB LK 🇱🇰</h1>
 
-<h3 align="center">🇱🇰 Project SSLaB LK 🇱🇰</h3>
-
-<img align="right" alt="Coding" width="400" src="https://github.com/noobconner21/noobconner21/main/gif.gif")
+<h5 align="center">No System Is Safe :)</h5>
+<img align="center" alt="Coding" width="600" src="https://raw.githubusercontent.com/noobconner21/noobconner21/main/gif.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noobconner21&label=Profile%20views&color=0e75b6&style=flat" alt="noobconner21" /> </p>
 
@@ -14,11 +13,11 @@
 
 - 🌱 I’m currently learning **Java, Python, Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://t.me/shaystudiolab](https://t.me/shaystudiolab)
+- 👨‍💻 All of my projects are available at [Telegram](https://t.me/shaystudiolab)
 
 - 💬 Ask me about **Decryption, About App Mod**
 
-- 📫 How to reach me **https://t.me/Shay_assistant_bot**
+- 📫 How to reach me [Telegram bot](https://t.me/shay_assistant_bot)
 
 - ⚡ Fun fact **I think iam a Good Parson**
 
