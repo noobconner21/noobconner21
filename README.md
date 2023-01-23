@@ -3,7 +3,7 @@
 <h1 align="center">Welcome  🇱🇰 Project SSLaB LK 🇱🇰</h1>
 
 <h5 align="center">No System Is Safe :)</h5>
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/noobconner21/noobconner21/main/gif.gif")
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/noobconner21/noobconner21/main/gif.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noobconner21&label=Profile%20views&color=0e75b6&style=flat" alt="noobconner21" /> </p>
 
