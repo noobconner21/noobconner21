@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noobconner21&label=Profile%20views&color=0e75b6&style=flat" alt="noobconner21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noobconner21" alt="noobconner21" /></a> </p>
 
 - 🔭 I’m currently working on [project SSLaB LK](https://t.me/shaystudiolab)
 
@@ -20,6 +19,8 @@
 - 📫 How to reach me [Telegram bot](https://t.me/shay_assistant_bot)
 
 - ⚡ Fun fact **I think iam a Good Parson**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noobconner21" alt="noobconner21" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 
