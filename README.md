@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bash,c,html,css,bootstrap,vue,js,py,java,kotlin" />
-    <img src="https://skillicons.dev/icons?i=arch,kali,linux,nginx,androidstudio,aws,azure,blender,cloudflare,git,ai,ps,pr,vscode," /><br>
+    <img src="https://skillicons.dev/icons?i=arch,kali,linux,androidstudio,aws,azure,cloudflare,git,ai,ps,pr,vscode," /><br>
 </div>
 
 <br/>
