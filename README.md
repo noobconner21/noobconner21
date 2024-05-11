@@ -37,8 +37,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bash,c,html,css,bootstrap,vue,js,py,java"/><br>
-    <img src="https://skillicons.dev/icons?i=arch,kali,androidstudio,aws,azure,cloudflare,git,ai,ps,vscode," />
+    <img src="https://skillicons.dev/icons?i=bash,c,html,css,bootstrap,vue,js,py,java"/>
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=arch,kali,androidstudio,aws,azure,cloudflare,git,ai,ps,vscode"/>
 </div>
 
 <br/>
