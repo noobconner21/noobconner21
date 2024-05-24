@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Project SSLAB LK**
 
- 👩‍💻 I’m currently a Student at ** BSE - Open University of Sri Lanka**
+ 👩‍💻 I’m currently a Student at **BSE - Open University of Sri Lanka**
  
  🌱 I’m currently learning **C, Java, JavaScript, VueJS, Python**
 
