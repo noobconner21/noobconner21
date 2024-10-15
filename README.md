@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **C, Java, JavaScript, VueJS, Python**
 
-💬 Ask me about **Bash, HTML, CSS or anything [here](https://github.com/noobconner21/noobconner21/issues)**
+💬 Ask me about **Bash or anything [here](https://github.com/noobconner21/noobconner21/issues)**
 
 ⚡ Fun fact **Where command-line magic meets automation wizardry! ✨**
 
